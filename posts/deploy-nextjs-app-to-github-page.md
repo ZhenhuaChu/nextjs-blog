@@ -17,5 +17,5 @@ date: '2023-12-26'
 
 ### Remain issues:
 
-- The profile avatar is not working yet.
+- The profile avatar is using the absolute url. Reletive path is not working.
 

@@ -6,7 +6,7 @@ const nextConfig = {
     output: 'export',
     reactStricMode: true,
 
-    basePath: 'github-pages',
+    basePath: 'zhenhuachu.github.io',
   }
   
   module.exports = nextConfig

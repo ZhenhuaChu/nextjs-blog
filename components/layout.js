@@ -38,7 +38,7 @@ export default function Layout({ children, home }) {
           <>
             <Link href="/">
                 <img
-                  src="/images/profile.jpg"
+                  src="https://zhenhuachu.github.io/nextjs-blog/images/profile.jpg"
                   className={`${styles.headerImage} ${utilStyles.borderCircle}`}
                   alt={name}
                 />

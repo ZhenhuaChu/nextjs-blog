@@ -6,7 +6,7 @@ const nextConfig = {
     output: 'export',
     reactStrictMode: true,
 
-    basePath: '/nextjs-blog',
+    basePath: '',
   }
   
   module.exports = nextConfig

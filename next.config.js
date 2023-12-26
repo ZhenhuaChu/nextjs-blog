@@ -4,9 +4,9 @@
 const nextConfig = {
     /* config options here */
     output: 'export',
-    reactStricMode: true,
+    reactStrictMode: true,
 
-    basePath: 'zhenhuachu.github.io',
+    basePath: '/github-pages',
   }
   
   module.exports = nextConfig
